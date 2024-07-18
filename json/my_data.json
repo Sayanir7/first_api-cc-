@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "type": "cultural",
+      "headline": "India won the international award for the best cultural country",
+      "date": "2021-06-01",
+      "image": "https://cdn.pixabay.com/photo/2017/03/27/12/45/woman-2178480_1280.jpg",
+      "author": "John Doe",
+      "content": "India has been awarded the best cultural country award by the International Cultural Organization for its rich and diverse cultural heritage."
+    },
+    {
+      "id": 2,
+      "type": "historical",
+      "headline": "Lost texts from Mount Vesuvius eruption deciphered with new AI",
+      "date": "2024-05-10",
+      "image": "https://cdn.pixabay.com/photo/2017/03/27/12/45/woman-2178480_1280.jpg",
+      "author": "Jane Smith",
+      "content": "New AI techniques are helping researchers read previously illegible texts carbonized after the eruption of Mount Vesuvius in A.D. 79, revealing new historical insights."
+    },
+    {
+      "id": 3,
+      "type": "historical",
+      "headline": "Gobekli Tepe reveals new 11,000-year-old finds",
+      "date": "2024-05-10",
+      "image": "https://cdn.pixabay.com/photo/2017/03/27/12/45/woman-2178480_1280.jpg",
+      "author": "Ali Khan",
+      "content": "Recent excavations at Gobekli Tepe have uncovered more ancient artifacts, including statues and carvings, dating back 11,000 years, offering a glimpse into early human civilization."
+    }
+    
+  ]
